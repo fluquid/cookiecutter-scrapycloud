@@ -18,7 +18,7 @@ Usage
 
 1. Install ``cookiecutter`` if you do not have it already: ``pip install cookiecutter``
 
-2. Generate a new project: ``cookiecutter gh:rolando/cookiecutter-scrapycloud``
+2. Generate a new project: ``cookiecutter gh:fluquid/cookiecutter-scrapycloud``
 
 Example
 -------
@@ -30,7 +30,7 @@ First we bootstrap our project and create a spider:
 
 .. code-block::
 
-  $ cookiecutter gh:rolando/cookiecutter-scrapycloud
+  $ cookiecutter gh:fluquid/cookiecutter-scrapycloud
   project_name [Project Name]: myproject
   project_slug [myproject]:
   project_module [myproject]:
